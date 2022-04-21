@@ -6,7 +6,7 @@ Rust-AB is designed to be a _ready-to-use_ tool for the ABM community and for th
 :zap:  The actual community effort on Rust-AB is mainly devoted to supporting **Parallel** execution and model **Visualization** using the [Bevy game engine](https://bevyengine.org/).
 
 
-# Contributors
+### Contributors
 
 <a href="https://github.com/rust-ab/rust-ab/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=rust-ab/rust-ab" />
