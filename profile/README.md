@@ -22,4 +22,4 @@ For more information please visit our site: <a href="https://krabmaga.github.io/
 When we were looking for a name for our library, we named it as typical as possible by combining the Rust language name with Agent-based (Rust-AB). Our project started to get better and better, and we moved from a prototype of an ABM simulation framework to an accurate tool. As good computer scientists, we started looking again for a name that would give a more significant entity to our project. We have finally found it in the martial art of Krav Maga; this art, as our tool, is based on two principal goals: reliability and efficiency.
 
 Therefore, we combined Crab (Krab) 🦀 with Maga and obtained **krABMaga**. 
-Credit this name to @ddevin96.
+Credit this name to [@ddevin96].
