@@ -11,6 +11,8 @@ KrABMaga is a discrete events simulation engine for developing ABM simulation th
 
 For more information please visit our site: <a href="https://krabmaga.github.io/">krABMaga.github.io</a>.
 
+**Developed by** [![ISISLab](https://raw.githubusercontent.com/krABMaga/krABMaga.github.io/main/static/images/isislab.png)](https://www.isislab.it)
+
 ### Contributors
 
 <a href="https://github.com/rust-ab/rust-ab/graphs/contributors">
