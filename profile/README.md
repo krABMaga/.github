@@ -3,6 +3,7 @@
   <h1> krABMaga </h1>
   <img alt="Crates.io" src="https://img.shields.io/crates/l/krabmaga">
   <img alt="Crates.io" src="https://img.shields.io/crates/v/krabmaga">
+  <img alt="docs.rs" src="https://img.shields.io/docsrs/krabmaga">
   <h3> <i>A modern developing art for reliable and efficient ABM simulation with the Rust language</i></h3>
 </div>
 
